@@ -1,7 +1,7 @@
 # CAMBIOS PRODUCCION
 
-Prueba pollitos
+Prueba de cambio en desarrollo
 
 ## Control de cambios
 
-Ejemplo ramas
+Ejemplo ramas paso 2
