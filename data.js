@@ -2,7 +2,7 @@ const familia = [
     {
         id: 1,
         nombre: "Diana",
-        inHouse: true,
+        inHouse: false,
     },
     {
         id: 2,
